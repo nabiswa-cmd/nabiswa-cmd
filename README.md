@@ -1,13 +1,13 @@
 #                             👋 Hello, I'm Nabiswa James🤓 
 
-🌍 Based in Kenya | 💻 Student Software Engineer | 🌱 Full Stack Web Developer
+🌍 Based in Kenya | 💻  Software Engineer | 🌱 Full Stack Web Developer
 
 ---
 
 ## 🚀 About Me
 
 I am a passionate learner exploring software development and web technologies.
-Currently focusing on **Python frameworks** like Flask and Django.
+Currently focusing on **Python frameworks** ; Flask and Django.
 I enjoy building small projects to improve my skills and problem-solving abilities.
 
 ---
