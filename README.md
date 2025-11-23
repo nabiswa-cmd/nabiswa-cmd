@@ -38,7 +38,7 @@ I enjoy building small projects to improve my skills and problem-solving abiliti
 
 ---
 
-## 📊 GitHub Stats (Optional)
+## 📊 GitHub Stats
 
 ![Nabiswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabiswa-cmd&show_icons=true&theme=radical)
 
