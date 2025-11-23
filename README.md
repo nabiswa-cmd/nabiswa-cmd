@@ -21,14 +21,6 @@ I enjoy building small projects to improve my skills and problem-solving abiliti
 
 ---
 
-## 💼 Projects
-
-* **[Gas Management System](link-to-repo)** – Flask project to track gas cylinder stock.
-* **[Portfolio Website](link-to-repo)** – Personal portfolio showcasing projects and skills.
-* **[CyberCafe Website](link-to-repo)** – Responsive landing page for a cybercafe business.
-
----
-
 ## 📫 Contact
 
 * Email: [nabiswaj8@gmail.com](mailto:nabiswaj8@gmail.com)
