@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nabiswa James
+#                             👋 Hello, I'm Nabiswa James🤓 
 
 🌍 Based in Kenya | 💻 Student Software Engineer | 🌱 Full Stack Web Developer
 
