@@ -21,7 +21,7 @@ I enjoy solving challenging problems and turning ideas into real-world solutions
 
 ##  GitHub Stats
 
-[Nabiswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabiswa-cmd\&show_icons=true\&theme=radical)
+[Nabiswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabiswa-cmd&show_icons=true&theme=radical)
 
 
 
