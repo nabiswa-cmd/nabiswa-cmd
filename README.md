@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nabiswa James 
+#  Hello, I'm Nabiswa James 
 
  Full Stack Web Developer | Python & Django | Flask | PostgreSQL | Frontend Web Design
 
