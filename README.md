@@ -1,33 +1,20 @@
-#  Hello, I'm Nabiswa James 
+# Nabiswa James
+Full Stack Web Developer based in Kenya.
 
- Full Stack Web Developer | Python & Django | Flask | PostgreSQL | Frontend Web Design
+I build complete web systems with Python, Django, Flask and PostgreSQL — backend logic, REST APIs, Google OAuth, automated emails, and responsive frontends.
 
+**Stack:** Python · Django · Flask · PostgreSQL · JavaScript · Bootstrap · Tailwind · Git
 
+**What I deliver:**
+- Full stack web applications
+- Google OAuth and social authentication
+- Automated email systems
+- REST API development
+- Responsive frontend interfaces
 
-##  About Me
+**Contact:**
+nabiswaj8@gmail.com · [LinkedIn](https://www.linkedin.com/in/nabiswa-james-830296384) · [GitHub](https://github.com/nabiswa-cmd)
 
-I build scalable web applications and practical projects using modern technologies.
-Passionate about **Python development, web frameworks, and writing clean, maintainable code**.
-I enjoy solving challenging problems and turning ideas into real-world solutions.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nabiswa-cmd&show_icons=true&theme=radical)
 
-
-
-##  Skills & Tools
-
-* **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind
-* **Backend:** Python, Django, Flask, REST APIs, PostgreSQL
-* **Programming Languages:** Python, Java
-* **Version Control & Tools:** Git, GitHub, VS Code
-
-##  GitHub Stats
-
-[Nabiswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabiswa-cmd&show_icons=true&theme=radical)
-
-
-
-##  Contact Me
-
-* Email: [nabiswaj8@gmail.com](mailto:nabiswaj8@gmail.com)
-* LinkedIn: [linkedin.com/in/nabiswa-james-830296384](https://www.linkedin.com/in/nabiswa-james-830296384?originalSubdomain=ke)
-
-*"Code is like art, and I love creating digital solutions that work beautifully."*
+> Code is like craft — the quality of the thing matters, not just that it ships.
