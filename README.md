@@ -1,7 +1,7 @@
 # Nabiswa James
-Full Stack Web Developer based in Kenya.
+Full Stack WebApp Developer based in Kenya.
 
-I build complete web systems with Python, Django, Flask and PostgreSQL — backend logic, REST APIs, Google OAuth, automated emails, and responsive frontends.
+I build complete web systems with Python, Django, Flask and PostgreSQL backend logic, REST APIs, Google OAuth, automated emails, and responsive frontends.
 
 **Stack:** Python · Django · Flask · PostgreSQL · JavaScript · Bootstrap · Tailwind · Git
 
@@ -17,4 +17,4 @@ nabiswaj8@gmail.com · [LinkedIn](https://www.linkedin.com/in/nabiswa-james-8302
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nabiswa-cmd&show_icons=true&theme=radical)
 
-> Code is like craft — the quality of the thing matters, not just that it ships.
+> Code is like craft  the quality of the thing matters, not just that it ships.
