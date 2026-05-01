@@ -11,10 +11,5 @@ I build complete web systems with Python, Django, Flask and PostgreSQL backend l
 - Automated email systems
 - REST API development
 - Responsive frontend interfaces
-
-**Contact:**
-nabiswaj8@gmail.com · [LinkedIn](https://www.linkedin.com/in/nabiswa-james-830296384) · [GitHub](https://github.com/nabiswa-cmd)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nabiswa-cmd&show_icons=true&theme=radical)
-
 > Code is like craft  the quality of the thing matters, not just that it ships.
