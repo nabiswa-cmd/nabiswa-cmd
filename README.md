@@ -10,4 +10,4 @@ I build complete web systems with Python, Django, Flask and PostgreSQL backend l
 - Automated email systems
 - REST API development
 - Responsive frontend interfaces
-> Code is like craft  the quality of the thing matters, not just that it ships.
+ Code is like craft  the quality of the thing matters, not just that it ships.
